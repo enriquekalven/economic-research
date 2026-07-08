@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "project-maui"
+  },
+  "targets": {
+    "project-maui": {
+      "hosting": {
+        "economic-research": [
+          "economic-research"
+        ]
+      }
+    }
   }
 }

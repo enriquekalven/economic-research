@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "economic-research",
     "public": "ui-build",
     "ignore": [
       "firebase.json",
